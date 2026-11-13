@@ -9,4 +9,8 @@ wheels/
 # Virtual environments
 .venv
 data/*
+<<<<<<< HEAD
 !data/.gitkeep
+=======
+!data/.gitkeep
+>>>>>>> ce0c0eccbcbec62f61d06928a72f0d057b39359a
